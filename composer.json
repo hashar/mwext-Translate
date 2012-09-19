@@ -1,0 +1,10 @@
+{
+	"name": "mediawiki/translate",
+	"description": "Let your user translate any kind of text",
+	"homepage": "http://www.mediawiki.org/wiki/Extension:Translate",
+	"license" : "GPL-2.0+",
+
+	"suggest": {
+		"mediawiki/translation-notifications": "Manage communication with translators"
+	}
+}
